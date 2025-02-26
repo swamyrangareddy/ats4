@@ -1,0 +1,14 @@
+streamlit
+sqlite3
+pandas
+google-generativeai
+python-dotenv
+PyPDF2
+docx2txt
+torch 
+torchvision 
+transformers
+streamlit_cookies_manager
+sentence_transformers
+
+# pip install streamlit sqlite3 pandas google-generativeai python-dotenv PyPDF2 docx2txt torch torchvision transformers streamlit_cookies_manager sentence_transformers
